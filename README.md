@@ -10,4 +10,3 @@ A simple **Foreign Exchange Service** built with **Spring Boot** and **PostgreSQ
 - **Database Integration** → PostgreSQL with JPA/Hibernate
 - **Docker Support** → Runs easily with `docker-compose`
 
-## 📂 Project Structure
